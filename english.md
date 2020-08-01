@@ -3,6 +3,7 @@
   - room [+to do]
   - stop [+objective[possessive] doing] | 所有格の場合は文語的
   - stop [+object from doing]
+  - august
 
 - Idioms
   - none other than
