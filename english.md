@@ -1,8 +1,11 @@
 - Words
   - like-minded
   - room [+to do]
-  - stop [+objective[possessive] doing] | 所有格の場合は文語的
-  - stop [+object from doing]
+  - stop/prevent
+    - stop [+objective[possessive] doing] | 所有格の場合は文語的
+    - stop [+object from doing]
+    - prevent [+objective[possessive] doing] | 所有格の場合は文語的
+    - prevent [+object from doing]
   - august
   - intoxicate
 
