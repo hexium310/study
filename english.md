@@ -8,6 +8,7 @@
     - prevent [+object from doing]
   - august
   - intoxicate
+  - saw (noun)
 
 - Idioms
   - none other than
