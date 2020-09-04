@@ -10,6 +10,7 @@
   - intoxicate
   - saw (noun)
   - will (noun)
+  - surrender
 
 - Idioms
   - none other than
