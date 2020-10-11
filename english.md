@@ -11,6 +11,7 @@
   - saw (noun)
   - will (noun)
   - surrender
+  - vary
 
 - Idioms
   - none other than
