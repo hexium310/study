@@ -13,6 +13,7 @@
   - surrender
   - vary
   - ignorance
+  - deal [+with (pro)noun]
 
 - Idioms
   - none other than
